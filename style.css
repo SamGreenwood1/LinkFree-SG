@@ -54,7 +54,8 @@ h1{
 
 #description{
     text-align: center;
-    font-family: var(--font)
+    font-family: var(--font);
+    width: 70%;
 }
 
 #social-media{
@@ -76,8 +77,8 @@ h1{
 }
 
 .link:hover{
-    background-color: #3b6978;
-    color: #ffffff;
+    background-color: var(--hover-color);
+    color: var(--bgColor);
 }
 
 .link1 {
