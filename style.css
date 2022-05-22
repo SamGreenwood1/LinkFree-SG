@@ -55,9 +55,9 @@ h1{
 #description{
     text-align: center;
     font-family: var(--font);
-    /* width: 70%; */
-    margin: 10px;
-    align-items: center;
+    width: 90%;
+    /* margin: 10px;
+    align-items: center; */
 }
 
 #social-media{
