@@ -57,6 +57,7 @@ h1{
     font-family: var(--font);
     /* width: 70%; */
     margin: 10px;
+    align-items: center;
 }
 
 #social-media{
