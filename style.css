@@ -89,6 +89,10 @@ h1{
     color: var(--bgColor);
 }
 
+details summary {
+    cursor: pointer;
+  }
+
 .link1 {
     display: block;
     background-color: var(--internal-link);
